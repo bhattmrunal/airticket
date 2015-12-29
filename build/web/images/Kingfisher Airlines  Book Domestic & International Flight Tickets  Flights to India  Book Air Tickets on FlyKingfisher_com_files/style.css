@@ -1,0 +1,438 @@
+BODY {
+	BACKGROUND-COLOR: white; MARGIN: 0px; BACKGROUND-POSITION: 50% top
+}
+.pgBody {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0001.jpg); BACKGROUND-COLOR: white; MARGIN: 0px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 50% top
+}
+.pgFooterWelcomeTop {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF074.jpg); MARGIN: 0px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 50% top; HEIGHT: 2px
+}
+.pgFooterWelcome {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0005.jpg); MARGIN: 0px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 50% top; HEIGHT: 57px
+}
+A:link {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #ca0f24; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A:visited {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #ca0f24; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+FONT {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #474747; FONT-SIZE: 11px; LEFT: auto
+}
+.fontAgeLabel {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #666666; FONT-SIZE: 9px; LEFT: auto
+}
+.fontDefault {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #474747; FONT-SIZE: 11px; LEFT: auto
+}
+.fntNormal {
+	FONT-WEIGHT: normal
+}
+.fntBold {
+	FONT-WEIGHT: bold
+}
+.fntTiny {
+	FONT-SIZE: xx-small
+}
+.fntGray {
+	COLOR: #9f9f9f
+}
+.fntBlue {
+	COLOR: #000066
+}
+.fntRed {
+	COLOR: #cb1023
+}
+.fntTabSltd {
+	COLOR: #cc1124; FONT-WEIGHT: bold
+}
+.fntTabUnSltd {
+	COLOR: #f3f3f3
+}
+.fntHeading {
+	COLOR: #cb1023; FONT-SIZE: 12px
+}
+.fntHD {
+	FONT-SIZE: 12px
+}
+.fntWhite {
+	COLOR: white
+}
+.fntError {
+	COLOR: #ca0f24
+}
+.fntSuccessful {
+	COLOR: #329900
+}
+.fntBCrumP {
+	COLOR: #949494
+}
+.fntBCrumC {
+	COLOR: #ca0f24
+}
+.fntBCrumN {
+	COLOR: #cdcdcd
+}
+.fntSuccess {
+	COLOR: #269e00
+}
+.fntUnderLine {
+	TEXT-DECORATION: underline
+}
+.fntMandatory {
+	COLOR: #ff0000
+}
+.fntHdColor {
+	COLOR: #cb1023
+}
+.fntSltColor {
+	COLOR: yellow
+}
+.fntKingClubHeader {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #474747; FONT-SIZE: 13px; LEFT: auto
+}
+.fntKingClubRed {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #cb1023; FONT-SIZE: 14px; LEFT: auto
+}
+.cursorPointer {
+	CURSOR: pointer
+}
+.cursorDefault {
+	CURSOR: default
+}
+.rowHeight {
+	HEIGHT: 22px
+}
+.hgtEmptyRow {
+	HEIGHT: 20px
+}
+.hgtEmptyGap {
+	HEIGHT: 5px
+}
+.hgtEmptyDblGap {
+	HEIGHT: 10px
+}
+.noPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+SELECT {
+	BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: tahoma; HEIGHT: 18px; COLOR: black; FONT-SIZE: 11px; BORDER-TOP: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid
+}
+.clsSelect {
+	BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: tahoma; HEIGHT: 18px; COLOR: black; FONT-SIZE: 11px; BORDER-TOP: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid
+}
+INPUT {
+	BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: tahoma; HEIGHT: 18px; COLOR: black; FONT-SIZE: 11px; BORDER-TOP: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid; PADDING-TOP: 2px
+}
+.clsInput {
+	BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: tahoma; HEIGHT: 18px; COLOR: black; FONT-SIZE: 11px; BORDER-TOP: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid; PADDING-TOP: 2px
+}
+.noBorder {
+	BORDER-BOTTOM-STYLE: none; BORDER-BOTTOM-COLOR: transparent; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; BORDER-TOP-COLOR: transparent; WIDTH: auto; BORDER-TOP-STYLE: none; HEIGHT: auto; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-STYLE: none; BORDER-LEFT-COLOR: transparent; PADDING-TOP: 0px
+}
+.Button {
+	BORDER-BOTTOM: gray 0px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 0px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #c50e22; MARGIN-TOP: 0px; PADDING-LEFT: 0px; WIDTH: 100px; PADDING-RIGHT: 0px; HEIGHT: 22px; COLOR: white; BORDER-TOP: gray 0px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: gray 0px solid; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.btnGrayBig {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0022.jpg); WIDTH: 152px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #e71227
+}
+.btnTiny {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0002.jpg); WIDTH: 36px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.btnVTiny {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0046.jpg); WIDTH: 22px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.btnDefault {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0006.jpg); WIDTH: 77px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.btnSmapUp {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0029.jpg); WIDTH: 122px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #e71227
+}
+.btnSmapDw {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0030.jpg); WIDTH: 122px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #e71227
+}
+.btnGrayMid {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0052.jpg); WIDTH: 113px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #e71227
+}
+.btnGrayExLarge {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0053.jpg); WIDTH: 202px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #e71227
+}
+.btnGrayExLargeDisable {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0053.jpg); WIDTH: 202px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; COLOR: #afafaf
+}
+.redButton {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF072.jpg); BORDER-BOTTOM: gray 0px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 0px solid; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: uppercase; BACKGROUND-COLOR: #c50e22; MARGIN-TOP: 0px; PADDING-LEFT: 0px; WIDTH: 95px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%; HEIGHT: 29px; COLOR: white; BORDER-TOP: gray 0px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: gray 0px solid; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.textUpperCase {
+	TEXT-TRANSFORM: uppercase
+}
+.redButtonMid {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF071.jpg); WIDTH: 125px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.redButtonBack {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0006.jpg); WIDTH: 125px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.redButtonBig {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF073.jpg); WIDTH: 195px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center 50%
+}
+.thinBorder {
+	BORDER-BOTTOM: #f2f2f2 1px solid; BORDER-LEFT: #f2f2f2 1px solid; BORDER-TOP: #f2f2f2 1px solid; BORDER-RIGHT: #f2f2f2 1px solid
+}
+.thinBorderDark {
+	BORDER-BOTTOM: #cfcfcf 1px solid; BORDER-LEFT: #cfcfcf 1px solid; BORDER-TOP: #cfcfcf 1px solid; BORDER-RIGHT: #cfcfcf 1px solid
+}
+.thinBorderLight {
+	BORDER-BOTTOM: #dfdfdf 1px solid; BORDER-LEFT: #dfdfdf 1px solid; BORDER-TOP: #dfdfdf 1px solid; BORDER-RIGHT: #dfdfdf 1px solid
+}
+.thinError {
+	BORDER-BOTTOM: #ca0f24 1px solid; BORDER-LEFT: #ca0f24 1px solid; BORDER-TOP: #ca0f24 1px solid; BORDER-RIGHT: #ca0f24 1px solid
+}
+.thinSuccess {
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid
+}
+.thinHRError {
+	BORDER-BOTTOM: #ca0f24 1px solid; BORDER-LEFT: #ca0f24 0px solid; BORDER-TOP: #ca0f24 0px solid; BORDER-RIGHT: #ca0f24 0px solid
+}
+.thinBDDarkLeft {
+	BORDER-LEFT: #cfcfcf 1px solid
+}
+.thinBDDarkRight {
+	BORDER-RIGHT: #cfcfcf 1px solid
+}
+.thinBDDarkTop {
+	BORDER-TOP: #cfcfcf 1px solid
+}
+.thinBDDarkBottom {
+	BORDER-BOTTOM: #cfcfcf 1px solid
+}
+.thickBDDarkLeft {
+	BORDER-LEFT: #cfcfcf 3px solid
+}
+.thickBDDarkBottom {
+	BORDER-BOTTOM: #cfcfcf 3px solid
+}
+.thinNoBorder {
+	BORDER-BOTTOM: #cfcfcf 0px solid; BORDER-LEFT: #cfcfcf 0px solid; BORDER-TOP: #cfcfcf 0px solid; BORDER-RIGHT: #cfcfcf 0px solid
+}
+.thinHR {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 0px solid; BORDER-TOP: gray 0px solid; BORDER-RIGHT: gray 0px solid
+}
+.tblTD {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; PADDING-TOP: 3px
+}
+.bgWhite {
+	BACKGROUND-COLOR: white
+}
+.bgBorder {
+	BACKGROUND-COLOR: #cfcfcf
+}
+.bgLightGray {
+	BACKGROUND-COLOR: #f3f3f3
+}
+.bgDarkGray {
+	BACKGROUND-COLOR: #949494
+}
+.bgCalColumn {
+	BACKGROUND-COLOR: #d7d7d7
+}
+.bgTab {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0007.jpg); BACKGROUND-REPEAT: repeat-x; HEIGHT: 22px
+}
+.bgError {
+	BACKGROUND-COLOR: #ffeaff
+}
+.bgErrorControl {
+	BACKGROUND-COLOR: #ffffdf
+}
+.bgAlternate {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.bgDrakHD {
+	BACKGROUND-COLOR: #666666
+}
+.bgAlternateHD {
+	BACKGROUND-COLOR: #dfdfdf
+}
+.seatAisle {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; BORDER-TOP: #f3f3f3 1px solid; BORDER-RIGHT: #f3f3f3 1px solid
+}
+.bgSingleLine {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0007.jpg); BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: center 50%
+}
+.noFlt {
+	BACKGROUND-COLOR: white
+}
+.fltAvail {
+	BACKGROUND-COLOR: #fdeaec
+}
+.fltSltd {
+	BACKGROUND-COLOR: #666666
+}
+.seatAvail {
+	BACKGROUND-COLOR: white
+}
+.seatNotAvail {
+	BACKGROUND-COLOR: #afafaf
+}
+.seatOccu {
+	BACKGROUND-COLOR: #cac689
+}
+.seatFello {
+	BACKGROUND-COLOR: #00b000
+}
+.seatCurr {
+	BACKGROUND-COLOR: #cd3301
+}
+.fareLow {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareLow1 {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareLow2 {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareLow3 {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareLow4 {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareLow5 {
+	BORDER-BOTTOM: #cb100f 1px solid
+}
+.fareGrid1 {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0040.jpg)
+}
+.fareGrid2 {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0041.jpg)
+}
+.fareGrid3 {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0045.jpg)
+}
+.fareGrid4 {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0043.jpg)
+}
+.fareGrid5 {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF0044.jpg)
+}
+.bgImgLine {
+	BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 50% bottom
+}
+.redLine {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF056.jpg); BACKGROUND-REPEAT: repeat-x; HEIGHT: 1px
+}
+.thickRedLine {
+	BACKGROUND-IMAGE: url(/images/ibe/en/KF056.jpg); HEIGHT: 10px
+}
+.thinDashedTop {
+	BORDER-TOP: #cfcfcf 1px dashed
+}
+.fntDisabled {
+	COLOR: #afafaf
+}
+.TabDivider {
+	BACKGROUND-IMAGE: url(/images/ibe/en/obe_dotted_divider.gif); BACKGROUND-REPEAT: repeat-x; HEIGHT: 5px
+}
+.ssThinBorder {
+	BORDER-BOTTOM: #a6a6a6 1px solid; BORDER-LEFT: #a6a6a6 1px solid; BORDER-TOP: #a6a6a6 1px solid; BORDER-RIGHT: #a6a6a6 1px solid
+}
+.ssThinBGSltd {
+	BACKGROUND-COLOR: #cfcfcf
+}
+.ssThinBG {
+	BACKGROUND-COLOR: #fef5f7
+}
+.ssHref:link {
+	COLOR: black
+}
+.ssHref:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.rightText {
+	TEXT-ALIGN: right
+}
+.fntRedHighlight {
+	COLOR: #cb1023
+}
+.SeparatorBG {
+	BACKGROUND-IMAGE: url(/images/ibe/en/kf_separator_04.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: left top
+}
+.TopBackground {
+	BACKGROUND-IMAGE: url(/images/ibe/kf_booking_08.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 82px
+}
+.TopBackground1 {
+	BACKGROUND-IMAGE: url(/images/ibe/kf_booking_08A.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 48px
+}
+.BodyBackground {
+	BACKGROUND-IMAGE: url(/images/ibe/kf_booking_09.gif); BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left top
+}
+.BottomBackground {
+	BACKGROUND-IMAGE: url(/images/ibe/kf_booking_11.gif); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 210px
+}
+.RedSmallText {
+	FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ca0000; FONT-SIZE: 9px
+}
+.top_bar {
+	BACKGROUND-IMAGE: url(/images/ibe/KF_ins_01.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 20px
+}
+.Bg_bar {
+	BACKGROUND-IMAGE: url(/images/ibe/KF_ins_05.jpg); BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left top
+}
+.bottom_bar {
+	BACKGROUND-IMAGE: url(/images/ibe/KF_ins_06.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 17px
+}
+.thinBorderGrey {
+	BORDER-BOTTOM: #949494 1px solid; BORDER-LEFT: #949494 1px solid; BORDER-TOP: #949494 1px solid; BORDER-RIGHT: #949494 1px solid
+}
+#fuzz {
+	Z-INDEX: 9000; POSITION: absolute; TEXT-ALIGN: center; WIDTH: 100%; DISPLAY: none; BACKGROUND: url(/images/ibe/dim-bg.png); TOP: 0px; LEFT: 0px
+}
+.msgbox {
+	BORDER-BOTTOM: #ce1025 9px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #ce1025 9px solid; BACKGROUND-COLOR: #fff; MARGIN-TOP: 20%; WIDTH: 480px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000; MARGIN-LEFT: auto; FONT-SIZE: 16px; BORDER-TOP: #ce1025 9px solid; FONT-WEIGHT: bold; MARGIN-RIGHT: auto; BORDER-RIGHT: #ce1025 9px solid
+}
+.msgbox IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 5px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.precentage {
+	COLOR: #ce1025; FONT-SIZE: 22px; FONT-WEIGHT: bold
+}
+.msgButton {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; MARGIN: 0px 10px; WIDTH: 180px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; FLOAT: left; HEIGHT: 25px; COLOR: #fff; FONT-SIZE: 12px; BORDER-TOP: #000 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #000 1px solid; PADDING-TOP: 5px
+}
+#button-set {
+	TEXT-ALIGN: center; WIDTH: 420px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+#button-set-ReturnConfirm {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 120px; PADDING-RIGHT: 80px; FLOAT: right; LEFT: 300px
+}
+.returnBoxErrorMsg {
+	TEXT-ALIGN: left; WIDTH: 100%; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; CLEAR: both; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.popMsgBox {
+	POSITION: relative; TEXT-ALIGN: right; MARGIN-TOP: 20%; WIDTH: 500px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 200px; COLOR: #000; MARGIN-LEFT: auto; FONT-SIZE: 18px; MARGIN-RIGHT: auto
+}
+.popUpInLayer {
+	BORDER-BOTTOM: #f20101 12px solid; TEXT-ALIGN: center; BORDER-LEFT: #f20101 12px solid; BACKGROUND-COLOR: white; MARGIN-TOP: -4px; HEIGHT: auto; BORDER-TOP: #f20101 12px solid; BORDER-RIGHT: #f20101 12px solid
+}
+.buttonPop {
+	BORDER-BOTTOM: gray 0px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 0px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #c50e22; MARGIN-TOP: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; HEIGHT: 23px; COLOR: white; BORDER-TOP: gray 0px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: gray 0px solid; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+.btnRed {
+	BACKGROUND-IMAGE: url(/images/ibe/RedLine.jpg)
+}
+.btnGray {
+	BACKGROUND-IMAGE: url(/images/ibe/GrayLine.jpg)
+}
+.shadow {
+	box-shadow: 5px 5px 5px #0E0F0F; -moz-box-shadow: 5px 5px 5px #0E0F0F; -webkit-box-shadow: 5px 5px 5px #0E0F0F
+}
+FONT {
+	FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif; COLOR: #474747; FONT-SIZE: 11px; LEFT: auto
+}
+.fntBold {
+	FONT-WEIGHT: bold
+}
+.homeSelect {
+	BORDER-BOTTOM: #a0a0a0 1px solid; BORDER-LEFT: #a0a0a0 1px solid; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: tahoma; HEIGHT: 18px; COLOR: black; FONT-SIZE: 11px; BORDER-TOP: #a0a0a0 1px solid; BORDER-RIGHT: #a0a0a0 1px solid
+}

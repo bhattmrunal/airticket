@@ -1,0 +1,13 @@
+var strPrmHomeURL = "http://www.flykingfisher.com/index.aspx"; 
+var strPrmBkgURL = "https://ibe.flykingfisher.com/ibe/public/showIBEHome.action"; 
+var strPrmBkgMultiURL = "https://ibe.flykingfisher.com/ibe/public/showIBEHome.action"; 
+var strPrmRedimURL = "https://ibe.flykingfisher.com/redemption/public/showLogin.action"; 
+var strPrmWCURL = "https://ibe.flykingfisher.com/webcheckin/public/showFlights.action"; 
+var strPrmSchURL="http://evinta.jkcsworld.com/ibe/public/showFlightSchedule.action";
+var strMyHomeURL=new Array();
+strMyHomeURL[0]=strPrmHomeURL;
+strMyHomeURL[1]=strPrmHomeURL;
+var strManageBooking="http://www.flykingfisher.com/plan-book/manage-booking.aspx";
+var strWebCheckIn="http://www.flykingfisher.com/plan-book/web-check-in.aspx";
+var strHotel="http://www.flykingfisher.com/plan-book/hotels.aspx";
+var strFlightStatus = "http://www.flykingfisher.com/plan-book/flight-status.aspx";

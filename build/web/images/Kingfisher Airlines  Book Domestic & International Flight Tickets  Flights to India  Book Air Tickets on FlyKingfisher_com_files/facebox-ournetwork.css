@@ -1,0 +1,54 @@
+.black_overlays {
+	Z-INDEX: 1; POSITION: absolute; FILTER: alpha(opacity=70); WIDTH: 100%; DISPLAY: none; HEIGHT: 100%; TOP: 0%; LEFT: 0%; opacity: 0.70; -moz-opacity: 0.7
+}
+#facebox .b-top {
+	BACKGROUND-COLOR: #fff
+}
+#facebox .b {
+	BACKGROUND-COLOR: #fff
+}
+#facebox #section-header {
+	Z-INDEX: 2000; TEXT-ALIGN: left; PADDING-BOTTOM: 2px; TEXT-TRANSFORM: capitalize; BACKGROUND-COLOR: #d31926; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FLOAT: left; COLOR: #fff; FONT-SIZE: 12px; PADDING-TOP: 2px
+}
+#facebox #section-header SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#facebox .tl {
+	BACKGROUND-COLOR: #d31926; -moz-border-radius: 10px 0px 0px 0px; -webkit-border-radius: 10px 0px 0px 0px; -khtml-border-radius: 10px 0px 0px 0px
+}
+#facebox .tr {
+	BACKGROUND-COLOR: #d81921; -moz-border-radius: 0px 10px 0px 0px; -webkit-border-radius: 0px 10px 0px 0px; -khtml-border-radius: 0px 10px 0px 0px
+}
+#facebox .bl {
+	BACKGROUND-COLOR: #d81921
+}
+#facebox .br {
+	BACKGROUND-COLOR: #d81921
+}
+#facebox {
+	Z-INDEX: 100; POSITION: absolute; TEXT-ALIGN: left; WIDTH: 100%; TOP: 0px; LEFT: 0px
+}
+#facebox A.close {
+	WIDTH: 60px; DISPLAY: block; FLOAT: right; CURSOR: pointer !important
+}
+#facebox .popup {
+	POSITION: relative
+}
+#facebox TABLE {
+	BORDER-BOTTOM: #d71820 2px solid; BORDER-LEFT: #d71820 2px solid; MARGIN: auto; BORDER-COLLAPSE: collapse; BORDER-TOP: #d71820 2px solid; BORDER-RIGHT: #d71820 2px solid
+}
+#facebox .body {
+	WIDTH: 370px; BACKGROUND: #fff; OVERFLOW: auto
+}
+#facebox .loading {
+	TEXT-ALIGN: center
+}
+#facebox .image {
+	TEXT-ALIGN: center
+}
+#facebox IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; CURSOR: pointer !important; BORDER-RIGHT: 0px
+}
+#facebox .footer {
+	TEXT-ALIGN: right
+}
